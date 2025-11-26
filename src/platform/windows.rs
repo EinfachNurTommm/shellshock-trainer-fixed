@@ -11,7 +11,7 @@ use std::iter::once;
 
 use super::{Handle, Rect, Cursor, VK};
 
-const SHELLSHOCK_TITLE: &'static str = "ShellShock Live";
+const SHELLSHOCK_TITLE: &'static str = "ShellShockLive";
 
 #[derive(Debug)]
 pub struct WinHandle {
